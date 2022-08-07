@@ -1,20 +1,20 @@
 [
 {
-    "city": "Cerro de Pasco",
-    "country": "Peru",
-    "idCountry": "PE",
-    "lat": -10.836383,
-    "lon": -76.239441,
+    "city": "Queenstown",
+    "country": "New Zealand",
+    "idCountry": "NZ",
+    "lat": -45.037593,
+    "lon": 168.637038,
     "wg": "Snow",
     "icn": 0,
     "isPre": null
   },
 {
-    "city": "Queenstown",
-    "country": "New Zealanda",
-    "idCountry": "PE",
-    "lat": -45.037593,
-    "lon": 168.637038,
+    "city": "Antarctica",
+    "country": "Antarctica",
+    "idCountry": "CL",
+    "lat": -64.774037,
+    "lon": -64.055008,
     "wg": "Snow",
     "icn": 0,
     "isPre": null
