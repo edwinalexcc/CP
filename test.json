@@ -9,6 +9,16 @@
     "icn": 0,
     "isPre": null
   },
+{
+    "city": "Queenstown",
+    "country": "New Zealanda",
+    "idCountry": "PE",
+    "lat": -45.037593,
+    "lon": 168.637038,
+    "wg": "Snow",
+    "icn": 0,
+    "isPre": null
+  },
   {
     "city": "Dhaka",
     "country": "Bangladesh",
